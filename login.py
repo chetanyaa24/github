@@ -2,4 +2,5 @@
 
 USERNAME = "Chetanya"
 
-print("Login feature added")
+print("Login feature updated and added")
+print("Password validation added")
