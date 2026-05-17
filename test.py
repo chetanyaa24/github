@@ -1,4 +1,4 @@
 name = "Chetanya"
 
-print("Helloo", name)
-print("Welcome to Python and github")
+print("Hello", name)
+print("Welcome to Python and github let start learning")
