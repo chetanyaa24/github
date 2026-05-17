@@ -1,3 +1,5 @@
-username = "Chetanya"
+"""Login module"""
 
-print(Login feature added")
+USERNAME = "Chetanya"
+
+print("Login feature added")
